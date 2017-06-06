@@ -181,3 +181,9 @@ wow私服 - https://www.zhihu.com/question/46686668
 http://codeforces.com/
 从零开始的魔法书
 邻座的怪同学
+死亡爱丽丝
+wow官方小说 - http://games.sina.com.cn/o/z/wow/xiaoshuo.shtml
+supersu 2.76
+magisksu
+听闻反和谐的代号是 BASE64：QUblj6/og73nvLrlsJHmt6HmsLQ=
+api交互采用编码后的json（不知道能不能节省空间？）
