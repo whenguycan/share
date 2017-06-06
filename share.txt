@@ -187,3 +187,4 @@ supersu 2.76
 magisksu
 听闻反和谐的代号是 BASE64：QUblj6/og73nvLrlsJHmt6HmsLQ=
 api交互采用编码后的json（不知道能不能节省空间？）
+加勒比海盗5
