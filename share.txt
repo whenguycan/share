@@ -383,6 +383,10 @@ waifu2x
 dog days
 天降之物
 巴哈姆特之怒
+Lepus
+Hikari
+东野圭吾
+夏目漱石
 new game
 狂骨之梦
 姑获鸟之夏
