@@ -495,3 +495,4 @@ lovemissyoubear想念熊
 达文西
 新世界 - 韩国电影
 material girl - steam
+maven package 的时候为什么还是用以前的资源文件，是不是缓存问题
