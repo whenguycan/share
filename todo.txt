@@ -1,3 +1,9 @@
 
 1、增加登录及认证（oauth2标准）
-2、对于补番的不同状态加以颜色区分
+JsonConfig jsonConfig = new JsonConfig();
+		jsonConfig.setAllowNonStringKeys(true);
+		jsonConfig.setJsonPropertyFilter(new PropertyFilter() {
+			public boolean apply(Object arg0, String arg1, Object arg2) {
+				return arg2 instanceof List;
+			}
+		});
