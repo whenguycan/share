@@ -1,7 +1,7 @@
-
+﻿
 codesmith
-�ƺ���֤��ʻ���ԷǷ���װ���ϻ������������д������������
-��������
+酒后无证驾驶盗窃非法改装报废机动车超载逆行闯红灯肇事逃逸
+换子疑云
 https://zhuanlan.zhihu.com/p/21658058
 https://zhuanlan.zhihu.com/p/21508294
 https://zhuanlan.zhihu.com/p/20405658
@@ -9,23 +9,23 @@ http://www.dnfziliao.com/
 https://zhuanlan.zhihu.com/p/24207171
 https://leetcode.com/problemset/algorithms/
 http://coolshell.cn/articles/6010.html
-�����ϴ�Ծ����������ʶ������ĳ����׼�𰸣�Ȼ��ͨ�������׼�����㲻��˼����������
+广义的洗脑就是让你的意识依赖于某个标准答案，然后通过给你标准答案让你不会思考而控制你
 http://coolshell.cn/articles/3933.html/comment-page-1#comments
 http://coolshell.cn/articles/11021.html
-html�����ִ�Сд������onclick�¼�=onClick�¼����Ժ���ȫ��Сд��
-�Ѷ����dnf�ӵ�ģ����������
-��ѧ�����
-����
-�嵰
-֪��
+html不区分大小写，所以onclick事件=onClick事件，以后还是全用小写好
+把多玩的dnf加点模拟器扒下来
+科学松鼠会
+果壳
+煎蛋
+知乎
 http://byr.wiki/
-����һ���ʴ�˿���ȣ�����ϲ��ʲôѽ������
-��˿������һ�죬����������ȥ�������ϲ����Ī���ˡ���
-����������˼�����ˡ���
-�ڶ��죬��������������ǰ���˺�����ȴ�������ĵ�Ц�ݣ��ƺ�ֻҪ��һ�仰����Ҳ��Ը����ȫ���硣
-���ݸ���һ��ƿ�ӣ�Ц���ºͣ������������Ī������
+兰博一天问崔丝塔娜：“你喜欢什么呀？”　
+崔丝塔娜脸一红，声音渐弱下去：“最…最喜欢提莫酱了…”
+兰博若有所思地走了。　
+第二天，兰博出现在她面前，伤痕累累却有着明媚的笑容，似乎只要她一句话，他也甘愿给她全世界。
+他递给她一个瓶子，笑得温和：“来，你的提莫酱。”
 https://google.github.io/styleguide/javaguide.html
-��������
+按键精灵
 http://bbs.anjian.com/showtopic-226166-1.aspx
 http://bbs.anjian.com/showtopic-228171-1.aspx
 http://bbs.anjian.com/showtopic-266745-1.aspx
@@ -33,107 +33,107 @@ https://zhuanlan.zhihu.com/p/25313498
 http://www.cr173.com/
 https://www.zhihu.com/question/29984712
 https://zhuanlan.zhihu.com/p/25351617
-д�����ߣ���word�е�����ȫ��ɾ��
-������Lepus arcticus
+写个工具，将word中的中文全部删除
+北极兔Lepus arcticus
 https://zhuanlan.zhihu.com/p/25394126
-��������
+绝望先生
 last game
-��̽��磺��Ů����Ħ˹
-������Ϸ��
-��ת����
+侦探歌剧：少女福尔摩斯
+生存游戏社
+回转企鹅罐
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/
-���׹�����
+网易公开课
 https://github.com/Grabacr07/KanColleViewer/releases/
 https://www.draw.io/
-�羺���̻���
+电竞毒奶黄旭东
 https://zhuanlan.zhihu.com/p/25448580
 https://zhuanlan.zhihu.com/p/25442962
 http://www.bilibili.com/video/av6731067/
-ѧһ���ѧ��ѧ
-���Ů��֮��ˡ
-ʥ��ʿ��������������
-�����ع�
-����
+学一遍大学数学
+曙光女神之宽恕
+圣斗士大招名当人物名
+型月重工
+那兔
 https://segmentfault.com/q/1010000003061640
-Сȭȭ���ؿ�
-���紫��
+小拳拳捶胸口
+剑风传奇
 https://zhuanlan.zhihu.com/p/25451624
 https://www.zhihu.com/question/37856401
 https://www.zhihu.com/question/35569842/answer/122739931
 https://zhuanlan.zhihu.com/p/25604225
-���������ǩ
-�ؼ��ڹ�̬�����������ϵͳwin7+dnf�������ռ乻������vm���ù����ļ���
-�籩Сȭȭ
-��ͼ��վhttp://iqdb.org/
-��ͼ��վhttps://ascii2d.net/
-��ͼ��վhttps://whatanime.ga/
-��ͼ��վhttp://saucenao.com/
-���µ�ʨ��
+意外的幸运签
+回家在固态里搞个虚拟机，系统win7+dnf，看看空间够不够，vm设置共享文件夹
+风暴小拳拳
+搜图网站http://iqdb.org/
+搜图网站https://ascii2d.net/
+搜图网站https://whatanime.ga/
+搜图网站http://saucenao.com/
+三月的狮子
 waifu2x
 One Room
-��ʬ����: Dead Ahead
-ʯ��ʱ�����ƹ�������Ѷ����
-����
+僵尸防御: Dead Ahead
+石器时代将推国服，腾讯代理
+玲音
 mc = https://tieba.baidu.com/p/3811696768
-���֮��
+天空之泪
 sandboxie
-dnfce-����-https://tieba.baidu.com/p/4996296303
+dnfce-冰月-https://tieba.baidu.com/p/4996296303
 https://tieba.baidu.com/p/4451388273
 https://tieba.baidu.com/p/4635258431
-��ֿ��Ǻ������Ǳ�֤����Ч�ʺ���ȷ�ԵĻ�����5-3-2���������-����-���Է����޶����������ڵ�Ȩ�ط��䡣
-���ܿ�����
+充分考虑后的设计是保证开发效率和正确性的基础，5-3-2，调研设计-编码-测试反馈修订。开发周期的权重分配。
+白熊咖啡厅
 http://www.sobaidupan.com/file-42977029.html
 https://tieba.baidu.com/p/4788207332
-�����Ī��
-����
-������������
-С�ּҵ���Ů��
-������Ķ���
-���ﶯ��԰
-�������
-��Ϸ���ֲ�-I��
-��������ev
-�����������Ԫ��2BС��㣩
-�����԰�����ɪ��
-MC�й�
+你的提莫酱
+锟斤拷锟斤拷
+烫烫烫烫烫烫
+小林家的龙女仆
+珈百璃的堕落
+兽娘动物园
+你的名字
+游戏俱乐部-I社
+闪乱神乐ev
+尼尔·机器纪元（2B小姐姐）
+叛逆性百万亚瑟王
+MC中国
 dead ahead
-���MC��̳
+麦块MC论坛
 Iron Marines
-����������
-�����ı�Ը
-������Ů
-���׹�����
+六花的勇者
+人渣的本愿
+金银彼女
+网易公开课
 http://rufus.akeo.ie/?locale=zh_CN
-��Ʊtitle=����ʡ��ȿƼ����޹�˾ 220102307808557
+发票title=吉林省邦谷科技有限公司 220102307808557
 https://zhuanlan.zhihu.com/p/26483360
-�ƾ�֮��
-С���ʹ����
-С����=Lilitales -���ƥ��륺
-С����=ħ��潹�
-С����=Damn, Kill me!!
-С����=���ܥ�ɤμ����Tʿ
-���׹�����
+悠久之翼
+小黄油大黄油
+小黄油=Lilitales -リリテイルズ
+小黄油=魔物娼馆
+小黄油=Damn, Kill me!!
+小黄油=コボルドの家畜騎士
+网易公开课
 av10492
-������
-����
-ѧϰ��api��֯ҵ�񼰹��ܽṹ
-ѧ԰Ĭʾ¼
-����ѿ�
-��ͤ�⣬�ŵ��ߣ������졣
-��������pc
-����
-��������þͺ���-����
-��У��Ŀ1 - http://www.jiazhao.com/kaoshi61725/
+素晴日
+玉子
+学习以api组织业务及功能结构
+学园默示录
+金蝉脱壳
+长亭外，古道边，芳草天。
+闪乱神乐pc
+极黑
+如果有妹妹就好了-漫画
+驾校科目1 - http://www.jiazhao.com/kaoshi61725/
 http://bbs.ngacn.cc/read.php?tid=9865291&rand=963
-������Ů
-����
-����֮��
-���ǻ�����
-����С���
+壳中少女
+狼雨
+传颂之物
+攻壳机动队
+飞天小裤裤
 http://www.bilibili.com/video/av10046368/
 Distill
 http://im.qq.com/lightqq/
-potplayer+zuneƤ��
+potplayer+zune皮肤
 dock
 https://pan.baidu.com/s/1qWMjy00
 https://pan.baidu.com/s/1bnwl9fx#list/path=%2F
@@ -141,11 +141,11 @@ http://www.uderzo.it/main_products/space_sniffer/index.html
 Geek Uninstall
 https://www.internetdownloadmanager.com/
 http://dlied6.qq.com/invc/xfspeed/qqpcmgr/download/QMWCTool.exe
-ͻϮ-ӡ��
-ī����������
-��ss�˺�
-Re��CREATORS
-��Ů
+突袭-印尼
+墨西哥三大导演
+卖ss账号
+Re：CREATORS
+竞女
 lepus
 satanikia
 kotlin
@@ -153,408 +153,408 @@ legal high
 Kerbal Space Program
 Dorcel handsoff
 BLAME!
-���֮��
+婚后之恋
 Eclipse
-ս���������ɼ�
-���Ϲž���5��SexLab
-TMA ��Fate�� SAIT-011
-����������
+战斗民族养成记
+《上古卷轴5》SexLab
+TMA 《Fate》 SAIT-011
+瑞树汉化组
 http://www.diyidan.com/main/area/118011/1
-��ԭ��־
-��֤����
-G��ʮ������
-AURAħ��Ժ��������ս��
-�ƻ�֮��
-wow˽�� - https://www.zhihu.com/question/46686668
-��д��
-��ӭ����NHK!
-��������
-����
-ӣ������
-������̫�ռƻ�
-���е�����
-�����̿�
-��ݮ�޻���
-���ְֵĻ�
-Ԫ������
+漆原智志
+考证靠挂
+G吧十二神器
+AURA魔龙院光牙最后的战斗
+蛊惑之刻
+wow私服 - https://www.zhihu.com/question/46686668
+速写者
+欢迎加入NHK!
+东京喰种
+白箱
+樱花任务
+坎巴拉太空计划
+猛男诞生记
+浪漫刺客
+草莓棉花糖
+听爸爸的话
+元气囝仔
 http://codeforces.com/
-���㿪ʼ��ħ����
-�����Ĺ�ͬѧ
-��������˿
-wow�ٷ�С˵ - http://games.sina.com.cn/o/z/wow/xiaoshuo.shtml
+从零开始的魔法书
+邻座的怪同学
+死亡爱丽丝
+wow官方小说 - http://games.sina.com.cn/o/z/wow/xiaoshuo.shtml
 supersu 2.76
 magisksu
-���ŷ���г�Ĵ����� BASE64��QUblj6/og73nvLrlsJHmt6HmsLQ=
-api�������ñ�����json����֪���ܲ��ܽ�ʡ�ռ䣿��
-���ձȺ���5
-ĩ��ʱ����ʲô����û�пգ�������������
+听闻反和谐的代号是 BASE64：QUblj6/og73nvLrlsJHmt6HmsLQ=
+api交互采用编码后的json（不知道能不能节省空间？）
+加勒比海盗5
+末日时在做什么？有没有空？可以来拯救吗？
 Re:CREATORS
-chrome�๦�ܽű� - https://tampermonkey.net/
+chrome多功能脚本 - https://tampermonkey.net/
 pornhub
 tumblr
 youporn
 Malody
 http://www.quumii.com/videolist-id-25148.html
-��ѧѧϰ - http://space.bilibili.com/88461692/#!/
+数学学习 - http://space.bilibili.com/88461692/#!/
 Anydesk
 Geek Uninstaller
-���֮Ԩ
-��������
+狂赌之渊
+东京残响
 to love
-������
+美人鱼
 git@github.com:listen1/listen1_chrome_extension
-��Щ��������ȥ����Ȱ����Ҫԭ�µ��ˡ�Ҫ����Զһ�㡣��Ȼ������ʱ�򡣻����۵��Լ�������
-ӣ������
-Ϊ���õ���������ף�� 2
+那些不懂来龙去脉就劝我们要原谅的人。要离他远一点。不然雷劈的时候。会连累到自己………
+樱花任务
+为美好的世界献上祝福 2
 http://s.xmcp.ml/pakkujs/
-����ϣ��
+奥莉希亚
 http://jdownloader.org/
-��������
-�������ֲ�
+咱们裸熊
+搏击俱乐部
 Honey Select
-�����µ���ʵ
-��������
-��ӣ
-����Ů
+阳光下的真实
+汉化黄油
+龙樱
+桌脚女
 Heroes 2
-���ͷ��ƴ�
+侠客风云传
 Evoland
-��ӹȺ����
-��������
-����һ��
-Сɭ��
-�İ��İ���ȥ��
-����
-�̸�
-���鲶��
-�ɹ��ĺ��岻����Ҫ�õ�ʲô������������Ǹ��ܶ���������˶�Զ��
-��Ҫ������ĵ���,�ǻ�Ӱ������ж�����
-����������¸�,����ǲ��ǲ�һ���������ʱ����,����᲻�᲻һ�㡣�����һ���û˵,�㻹�Ǻ��ԡ�
-������͵
-��5
-�ߺŷ�������
-ϲ��֮��
-���ļ���
-����ڣ��
+金庸群侠传
+人生七年
+浮生一日
+小森林
+哪啊哪啊神去村
+情书
+教父
+心灵捕手
+成功的含义不在于要得到什么，而在于你从那个奋斗的起点走了多远。
+不要憎恨你的敌人,那会影响你的判断力。
+如果当初我勇敢,结局是不是不一样。如果当时你坚持,回忆会不会不一般。最终我还是没说,你还是忽略。
+岁月神偷
+秒5
+七号房的礼物
+喜剧之王
+开心家族
+亨利冢本
 Rufus
 https://github.com/inconshreveable/ngrok
 everything - https://www.voidtools.com/
-ahk ħ�޶࿪ͬ��
+ahk 魔兽多开同步
 https://www.zhihu.com/question/52157612/answer/182924708
-���ꥷ�� - ����ϣ�� - arishia
+アリシア - 奥莉希亚 - arishia
 https://www.sumatrapdfreader.org/downloadafter.html
 effective java
-��װͻϮ3
+武装突袭3
 we need ghost not only shell
-��ħ֮��
-��Ǯ�ƿ�
-java ��̬����Class��Ŀǰ��֪������ToolProvider
-��
-�ֲ�������󻯲�һ���ܵõ�ȫ�����Ž�
-��Ծ�۷�
+恶魔之谜
+金钱掌控
+java 动态生成Class，目前已知可以用ToolProvider
+麦兜
+局部利益最大化不一定能得到全局最优解
+飞跃巅峰
 duolingo.cn
 imooc.com
 http://www.gbtags.com/gb/index.htm
 https://www.codecademy.com/
 http://open.163.com/
 https://www.wanmen.org/
-elf - ����
-proxifier + shadowsocks �����Ϸ
-freemarker - �Ͻ�ѧ
-Ը����߰����������������ꡣ
-ƽ������
-�߸��񾭲�
-�����������������͡���������̬�ȡ�
+elf - 三作
+proxifier + shadowsocks 外服游戏
+freemarker - 赶紧学
+愿你出走半生，归来仍是少年。
+平衡政策
+七个神经病
+“解决问题的能力”和“解决问题的态度”
 https://zhuanlan.zhihu.com/p/27447390
-�ı���һ��ʹ��Ĺ��̡�
+改变是一个痛苦的过程。
 https://zhuanlan.zhihu.com/p/27507183
 https://www.zhihu.com/question/61357256/answer/187646985
 http://space.bilibili.com/367877?from=search&seid=14845398110609044566#!/
-����ѿ�
-����º���
-Σ������
-88����
-ʮ����
-ˢ�� - http://www.lintcode.com/zh-cn/
-�����׺���Ϊˮ����ȴ��ɽ�����ơ�
-�����ں� - ��Ӱ
+金蝉脱壳
+逃离德黑兰
+危情三日
+88分钟
+十二宫
+刷题 - http://www.lintcode.com/zh-cn/
+曾经沧海难为水，除却巫山不是云。
+濑户内海 - 日影
 Always
 https://github.com/biezhi/blade
-�����ж�
-�����Ŀ�
-����
-����¶�
-����ʦlol
-����
+剑鱼行动
+冰点文库
+钢炼
+百年孤独
+马老师lol
+剑雨
 new game
-�����������
-�����ж�
-ɨ��
-�ҵ��ų��ҵ���
+最完美的离婚
+勇者行动
+扫毒
+我的团长我的团
 gosick
-Դ�� - 
+源码 - 
 	lucene
 	tomcat
 	spring
 	java.util.*
 	spring-core
 	Google guava
-��ͷ��֮��
+滑头鬼之孙
 php
 python
-ʹͽ����
-��Ϸ�������
-����С���
-��ɫ������
-�����翽�ʼ�
-ĩ��ʱ����ʲô����û�пգ�������������
+使徒行者
+游戏设计艺术
+飞天小裤裤
+灰色三部曲
+异世界拷问姬
+末日时在做什么？有没有空？可以来拯救吗？
 Fate/Apocrypha
-����Ů��
-��������NTR 
-��ʹ��3P
-ս��Ů��ѧ԰
-ֻ��������ˣ�������ĺ��ӻ��ɵ��
+单蠢女孩
+捏造陷阱NTR 
+天使的3P
+战斗女子学园
+只工作不玩耍，聪明的孩子会变傻。
 alibaba atlas
 myself;yourself
-��֮�
+夏之岚
 sola
-��������Ҷ��
-��ʵ֮��
-����Ұ�����
-�粨ϵ��Ů
-ϣ����櫵���ʿ
+蜂蜜与四叶草
+真实之泪
+伊里野的天空
+电波系彼女
+希德尼娅的骑士
 http://www.23ciyuan.com/18511.html
-�����Ů���Ů֮��
+君与彼女与彼女之恋
 recuva
-�ھ�
-ͼ������
-������Ů
-��ƴ̿�
-��������
-���ǹ�����������ʿ
-�Թ��ػ���
-��֮��
-�����͵ع�
+邻居
+图拉丁吧
+地狱少女
+会计刺客
+弹丸论破
+惑星公主与蜥蜴骑士
+乖乖守护神
+恶之华
+人身和地瓜
 Joan Cornella
-��ʦ
-����֮���İ���˿
+虫师
+弥留之国的爱丽丝
 I's
-�ǳ���ͥ - ����˾
-��ʹ��
-��������
-������ʱ��ħ�ĺ���
-ɱ¾����
-ʮ��������
-������Ԩ������ū����
-�����𵴡��õ����ռ�
-α�������Ůװɽ��
-ʥ��ʾ¼��������
-Ѫ���ֻء�3days
-ĩ��αװ���粨��ʧ֮��
-����������ɳҮ֮��
-��Ԫ�����������Ů���Ů֮��
-�ٺ���ɱ����˭ɱ��֪����
-��ȡ��ᡪmei��֮��
-�������̡�DARK BLUE
-�����յ㡪euphoria
-ʮ��ħ����
----�氮��Ů
----������
----��������
----����֮��
----Ů�����
----�����������
----֫���ϴ��
----��Ѩ����3
----����Ӱ
----3M��ȫ��Marionettes manipulate the marionette��
---- ȥ�ˤ���
----�͹���������
-���յ��������յ���Լ��
+非常家庭 - 北条司
+天使心
+城市猎人
+曾几何时天魔的黑兔
+杀戮公主
+十二神器：
+地狱深渊—冲绳奴隶岛
+堕落震荡—妹调教日记
+伪娘枷锁—女装山脉
+圣启示录—素晴日
+血池轮回—3days
+末日伪装—电波消失之日
+绝望爱恋—沙耶之歌
+次元囚笼—君与彼女与彼女之恋
+百合猎杀—是谁杀了知更鸟
+寝取舞会—mei肉之香
+纯爱酷刑—DARK BLUE
+虚拟终点—euphoria
+十二魔器：
+---虫爱少女
+---昆虫奸查
+---无限炼奸
+---触祭之都
+---女体狂乱
+---解体插入新书
+---肢体を洗う
+---异穴陵辱3
+---二重影
+---3M（全称Marionettes manipulate the marionette）
+--- 去人たち
+---和怪物恋爱吧
+明日的我与昨日的你约会
 pupa
-��������
-������ʵ��
-������Ϸ
+哈利波特
+贝尔科实验
+饥饿游戏
 https://www.zhihu.com/question/46800656/answer/194881153
 https://uzer.me/
 waifu2x
-�����ع�
-��������
+型月重工
+致命黑兰
 dog days
-�콵֮��
-�͹�ķ��֮ŭ
+天降之物
+巴哈姆特之怒
 Lepus
 Hikari
-��Ұ����
-��Ŀ��ʯ
+东野圭吾
+夏目漱石
 new game
-���֮��
-�û���֮��
+狂骨之梦
+姑获鸟之夏
 https://kn007.net/topics/free-application-for-google-voice-phone-number/
-���Ź�
-ĩ��ʱ����ʲô����û�пգ�������������
-�²�ֻ�ܱ����𣬲��ܱ�������
-���羭��ʷ��һ�����ڼ���ͻ��Ե������硣Ҫ��òƸ��������������������Ͷ�����У�Ȼ���ڼ��󱻹�����ʶ֮ǰ�˳���Ϸ��
-��ʹ���С����Ȼ����ת
-����֮���İ���˿
+看门狗
+末日时在做什么？有没有空？可以来拯救吗？
+韭菜只能被消灭，不能被教育。
+世界经济史是一部基于假象和谎言的连续剧。要获得财富，做法就是认清其假象，投入其中，然后在假象被公众认识之前退出游戏。
+即使如此小镇依然在旋转
+弥留之国的爱丽丝
 https://zhuanlan.zhihu.com/p/27826485
-΢���֣���������������������
+微积分（计算球体体积，表面积）
 http://bbs.nga.cn/read.php?tid=11766858
 http://bbs.nga.cn/read.php?tid=11746255
 https://zhuanlan.zhihu.com/p/27865796
 http://www.tucao.cc/
 http://konachan.com/
 http://byr.wiki/
-�񻶽�
-����������վ� - ����
-�������ɶ�ά�����
-sin�ߴ���
+狂欢节
+补番进度网站搭建 - 开整
+链接生成二维码服务
+sin七大罪
 legal high
 http://byr.wiki/
-�񻶽�
+狂欢节
 https://www.zhihu.com/question/29554817/answer/200734943
-��֮�켣����֮�켣
-�����x
-ŮУ���㱼
+零之轨迹，碧之轨迹
+淫妖蟲
+女校的裸奔
 F63A664997B145F0027558DB99592BEF76DB376D
-�����з�
-�ֲ˴������
-���������Ľ���
-һ��
-��ҡׯ������ͬѧ
-��������ȫ������
-������valvrave
+树大招风
+种菜打怪网游
+在这个世界的角落
+一天
+汤摇庄的幽奈同学
+灌篮高手全国大赛
+革命机valvrave
 qBittorrent
-�����ع���
-��ӭ����ʵ�������������
+天龙特攻队
+欢迎来到实力至上主义教室
 86- Eighty Six -
-������ʳ��
-·��Ů��
-Ф��˵ľ���
-�̸�
-����С˵
-����¶�
+异世界食堂
+路人女主
+肖申克的救赎
+教父
+低俗小说
+百年孤独
 http://www.linovel.net/article/list?cat=1
-la��blue girl
-������
-�����г�
+la☆blue girl
+素晴日
+玉子市场
 http://www.bilibili.com/video/av12662540/
 https://www.zhihu.com/question/63297611/answer/207605278
-ħ������������
-ʱ��滮��
-ajax�ϴ��ļ�
-java����
-��֮��
-2015-2016�·�-��Bվ
-�Ͻ�װ��5����ʹ
+魔塔公主的诅咒
+时间规划局
+ajax上传文件
+java并发
+星之泪
+2015-2016新番-非B站
+合金装备5：幻痛
 Elona
-����С��ķ���
-ͽȻϲ����
-����ս��
-��ս2
+人马小姐的烦恼
+徒然喜欢你
+绝地战警
+寒战2
 https://zhuanlan.zhihu.com/p/28275401
-��������
-���ִ�ʦ
-���½�ͨվ
+爱宠大机密
+分手大师
+地下交通站
 https://zhuanlan.zhihu.com/p/28370071
-������Ԩ
-��͵��Ӱ
-����Ů
-����ͬѧ�����ָ��Ŷ��
+来自深渊
+神偷谍影
+仆少女
+佐仓同学有你的指名哦！
 This war of mine
-��һ��
-�ƹ�����
-����D����
-̩��˹������
-������͵
-������Ԩ
-������ǹ��
-ŭ����
-������Ϸ
-�ｨ��
-����
-B/B+��
-�����
+陈一发
+酒鬼妹子
+重启咲良田
+泰勒斯威夫特
+岁月神偷
+来自深渊
+三个老枪手
+怒火攻心
+国王游戏
+孙建宏
+跳表
+B/B+树
+红黑树
 JackHF
-ctrl+shift+esc=���������
-win+r+snippingtool=win7�Դ���ͼ����
-˹�����޼���
-myeclipse����maven��Ŀʱbuildpath-sourceʹ��webapp/WEB-INF/classes��buildpathҲʹ�����
-myeclipse����maven��Ŀʱweb deployment assembly ȡ�� use deployment assembly
-����23
-ͽȻϲ����
+ctrl+shift+esc=任务管理器
+win+r+snippingtool=win7自带截图工具
+斯卡波罗集市
+myeclipse部署maven项目时buildpath-source使用webapp/WEB-INF/classes，buildpath也使用这个
+myeclipse部署maven项目时web deployment assembly 取消 use deployment assembly
+灵数23
+徒然喜欢你
 java CyclicBarrier
 java nio selector
-java ����ػ���
-�ֲ�ֱ��
-�������
+java 类加载机制
+恐怖直播
+垫底辣妹
 tomcat catalina
-java �����¼
+java 单点登录
 java rmi
-lovemissyoubear������
-������
-������ - ������Ӱ
+lovemissyoubear想念熊
+达文西
+新世界 - 韩国电影
 material girl - steam
-�����ߴα����Լ�����꣺
-��һ�Σ��������ɽ�ȡʱ��ȴ����ǫ���� 
-�ڶ��Σ������ڿ���ʱ���ð�������䣻
-�����Σ������Ѻ�����֮�䣬��ѡ�������� ��
-���ĴΣ������˴���ȴ���ɱ���Ҳ�᷸������ο�Լ���
-����Σ�������������ȴ������Ϊ�������ļ��� ��
-�����Σ���������һ�ų�������ʱ��ȴ��֪�������Լ�����е�һ����
-���ߴΣ�������������������У��䲻���ģ�ȴ��η��ηβ��  
-----����Ͳ���
-�ֻ���ά��ɨ��app
-�𵯲���
-������ı
-��ִ��
-��һ��
-Ȯҹ��
-��ֻ����
-��˿Ůʿ
-�������÷죬ʿ���������7.9�� - ����ж�
-�����ع��ӣ�7.6�� - ͨ�����
-\u4e00-\u9fa5 - �����ַ�
+我曾七次鄙视自己的灵魂：
+第一次，当它本可进取时，却故作谦卑； 
+第二次，当它在空虚时，用爱欲来填充；
+第三次，在困难和容易之间，它选择了容易 ；
+第四次，它犯了错，却借由别人也会犯错来宽慰自己；
+第五次，它自由软弱，却把它认为是生命的坚韧 ；
+第六次，当它鄙夷一张丑恶的嘴脸时，却不知那正是自己面具中的一副；
+第七次，它侧身于生活的污泥中，虽不甘心，却又畏首畏尾。  
+----卡里·纪伯伦
+手机二维码扫描app
+拆弹部队
+换身密谋
+黑执事
+陈一发
+犬夜叉
+三只裸熊
+屌丝女士
+锅匠，裁缝，士兵，间谍（7.9） - 间谍行动
+天龙特攻队（7.6） - 通天奇兵
+\u4e00-\u9fa5 - 汉字字符
 facerig
-��Ů
+竞女
 https://techdevguide.withgoogle.com/
-�ҵ��ų��ҵ���
-�ع����ж�
+我的团长我的团
+湄公河行动
 ffmpeg
-ħ��ʹ������
-ѧϰjava�Զ����ǩ������ʾö������
-�tKure-nai
-����һ�ķ���
-�ǹ��ӵ�
-������Ԩ
-��Ů��14
-ħ����ʦ����
-�ƾó�����
-���ߵ���ȭ
-���Τޤ��ץ��ǥ��`!(19P)
-����kotlin
-��������
-��ҹ������
-ʷ������
-��������Ů����
-�O��
+魔法使的新娘
+学习java自定义标签用于显示枚举类型
+紅Kure-nai
+星期一的丰满
+糖果子弹
+来自深渊
+龙女仆14
+魔法老师涅吉
+悠久持有者
+羞羞的铁拳
+そのまんラプソディー!(19P)
+黑马kotlin
+咱们裸熊
+辉夜姬物语
+史鬼匠人
+常春の少女たち
+監墟
 106.185.27.223 = benzi?
-��Хɽׯ
-ս�����ƽ
+呼啸山庄
+战争与和平
 https://www.zhihu.com/question/66282896
 av15033066
-����Ѱ��
-hello������
-Ȯҹ��
-<%@ include �� <jsp:include ��������ɶ
-���̿�����
-���޵�δ֪
-�˻�ͤ��̸
-Ҫ�������þͺ��� - ����
-�������ĸ���ķ�ȶ�
-���µ�ʨ��
-��Ϳ��̽
+亡命寻宝
+hello树先生
+犬夜叉
+<%@ include 和 <jsp:include 的区别是啥
+调教咖啡厅
+无限的未知
+此花亭奇谈
+要是有妹妹就好了 - 动漫
+灰与幻想的格林姆迦尔
+三月的狮子
+糊涂侦探
 layui
 oauth2
-�����
+捕鼠记
 https://www.youtube.com/watch?v=SFDYdslOvu8&list=PLNG30UThlcBxw5d4_yZ67z-KVIZ7DWO59&index=1
