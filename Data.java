@@ -1,4 +1,4 @@
-package com.example.administrator.myapplication;
+package com;
 
 /**
  * Created by wang on 2018/5/11.
@@ -65,6 +65,8 @@ public class Data {
     // +0-715-4156-357-284-3621-192
     // 守护项链-黄-Lv63
     // +3-2210-17359-1101-551-4791-276
+	// 华贵圣心指环-橙-Lv60
+	// +0-2780-22372-1390-853-2808-426d
 
     // TODO 活动戒指
     // 千刃之戒/万象之戒/莲华之戒/英雄之戒/王权之戒/歌姬之戒/龙魂之戒
