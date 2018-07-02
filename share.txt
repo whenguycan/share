@@ -707,3 +707,14 @@ RAFT（木筏求生）
 巴洛赫阳光，鲁特章鱼，复活币心眼，魔法阿法利亚
 图像识别 https://zhuanlan.zhihu.com/p/38363787
 python -m pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.12.0-py3-none-any.whl
+人都是需要独立的。
+仍是要永远年轻，永远热泪盈眶。
+仍是要时时刻刻对美好满怀期待，对未来充满渴望，对经典心怀敬畏。
+要记住啊，知世故而不世故，处江湖而远江湖，才是最善良的成熟。
+Java并发编程实战
+深入理解Java虚拟机
+设计模式
+https://www35.atwiki.jp/seiyuumatome/
+天才枪手
+怪怪守护神
+十斤炒黄豆
