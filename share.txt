@@ -758,4 +758,9 @@ https://www.bilibili.com/video/av19692749/
 cas单点登录实现
 dubbo
 ftp文件服务器
-机器学习 https://www.cnblogs.com/cococok2/p/9169488.html
+机器学习1 https://www.cnblogs.com/cococok2/p/9169488.html
+机器学习2 http://baijiahao.baidu.com/s?id=1586770447340201675&wfr=spider&for=pc
+机器学习3 https://blog.csdn.net/wizardforcel/article/details/79293944
+https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606
+https://github.com/OlafenwaMoses/ImageAI
+杀戮天使
