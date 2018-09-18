@@ -777,3 +777,4 @@ js方法原型
 东京迷城ex+
 https://blog.csdn.net/wild_jeek/article/details/71407501?locationNum=3&fps=1
 https://my.oschina.net/u/2391658/blog/1837002
+https://github.com/Yangtiancoder/deeplearning4j-examples-test/blob/master/dl4j-examples/src/main/java/org/deeplearning4j/examples/feedforward/mnist/MLPMnistSingleLayerExample.java
