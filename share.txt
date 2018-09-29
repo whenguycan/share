@@ -786,3 +786,4 @@ https://github.com/Yangtiancoder/deeplearning4j-examples-test/blob/master/dl4j-e
 google cloud + cloudflare 免费搭建网站
 https://blog.csdn.net/kunkun520dt/article/details/47783405
 https://github.com/infusion/jQuery-webcam/blob/master/jquery.webcam.js
+dnf90版本加点模拟器
