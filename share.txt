@@ -811,7 +811,7 @@ SSSS古利特
 https://blog.csdn.net/fightingxia/article/details/75303600
 http://www.zerobyw.com/plugin.php?id=jameson_manhua&c=index&a=ku
 1/dnf walker 重构
-2/番剧 app
+2/番剧 app（view组件化）
 狼之口
 花喰虫
 ETO解刑
@@ -819,3 +819,5 @@ https://www.zhihu.com/question/292915917
 ps/2端口协议模拟鼠标键盘
 别当欧尼酱
 山田七魔女
+心跳文学部
+维克托·伯厄
