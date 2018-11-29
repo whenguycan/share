@@ -814,6 +814,7 @@ http://www.zerobyw.com/plugin.php?id=jameson_manhua&c=index&a=ku
 2/番剧 app（view组件化）
 3/dnf资料站 挂广告
 4/dnf配装计算器
+5/java socket
 狼之口
 花喰虫
 ETO解刑
@@ -826,3 +827,8 @@ ps/2端口协议模拟鼠标键盘
 tomcat编码究竟是怎么回事
 惑星公主与蜥蜴骑士
 心悦荣耀战场
+蛸壷屋 C86的《前进，战车道》 最终话
+革命之路
+https://blog.csdn.net/buyingfei8888/article/details/13354575
+星际穿越
+BOUDICA -約束されざる勝利の女王- 。
