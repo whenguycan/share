@@ -1,0 +1,8 @@
+
+$ docker pull ilanyu/golang-reverseproxy
+$ docker run -d -p 8888:8888 ilanyu/golang-reverseproxy
+
+使用java生成uuid
+在jrebel的active激活
+http://45.32.23.128:8888/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+xxxx@xxxx.com
